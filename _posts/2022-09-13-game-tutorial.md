@@ -13,7 +13,7 @@ The game is called: **MAP** from Simon Tatham's Portable Puzzle Collection `http
 
 ## Initial Setting
 
-![image1](/devblog/assets/game_initial.png)
+![image1](/devblog/assets/article_images/game/game_initial.png)
 
 Figure 1: An example initial position
 
@@ -21,7 +21,7 @@ As shown in figure 1, the game generates a set of tites with some of them filled
 
 ## Placing a Color
 
-![image1](/devblog/assets/game_drag.png)
+![image1](/devblog/assets/article_images/game/game_drag.png)
 
 Figure 2: A drag cursor
 
@@ -33,7 +33,7 @@ In order to complete this task, the player can drag a certain color, where their
 
 ### If NOT Satisfactory
 
-![image1](/devblog/assets/game_wrong.png)
+![image1](/devblog/assets/article_images/game/game_wrong.png)
 
 Figure 3: A warning sign
 
@@ -41,7 +41,7 @@ Figure 3: A warning sign
 
 ## Completion of the Game
 
-![image1](/devblog/assets/game_comp.png)
+![image1](/devblog/assets/article_images/game/game_comp.png)
 
 Figure 4: A complete set of tiles
 
@@ -49,7 +49,7 @@ If all of the tiles are properly colored as shown above, then the game ends with
 
 ## Additional Controls
 
-![image1](/devblog/assets/game_controls.png)
+![image1](/devblog/assets/article_images/game/game_controls.png)
 
 Figure 5: Game Controls
 

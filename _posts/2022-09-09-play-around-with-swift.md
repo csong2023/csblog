@@ -30,7 +30,7 @@ struct ContentView: View {
 }
 ```
 
-![image1](/devblog/assets/swift/view.png)
+![image1](/devblog/assets/article_images/swift/view.png)
 
 Creating a basic text cell, with applying different texual features.
 
@@ -47,7 +47,7 @@ struct ShapeTutorial: View {
 }
 ```
 
-![image1](/devblog/assets/swift/shape.png)
+![image1](/devblog/assets/article_images/swift/shape.png)
 
 Creating a basic shape, while also adding decorative features such as borders, color and size.
 
@@ -65,7 +65,7 @@ struct ImageTutorial: View {
 }
 ```
 
-![image1](/devblog/assets/swift/image.png)
+![image1](/devblog/assets/article_images/swift/image.png)
 
 Added a image in the center, using different cell shapes for the image.
 
@@ -93,7 +93,7 @@ struct ButtonTutorial: View {
 }
 ```
 
-![image1](/devblog/assets/swift/button.png)
+![image1](/devblog/assets/article_images/swift/button.png)
 
 Created a button for the user, with decorative elements.
 
@@ -131,7 +131,7 @@ struct StackTutorial: View {
 
 ```
 
-![image1](/devblog/assets/swift/stack.png)
+![image1](/devblog/assets/article_images/swift/stack.png)
 
 Used the stack function to stack different objects created beforehand.
 
@@ -189,7 +189,7 @@ struct hw1: View {
 
 ```
 
-![image1](/devblog/assets/swift/extended.png)
+![image1](/devblog/assets/article_images/swift/extended.png)
 
 Used a greater variety of stacks, including those in all three directions (vertical, horizontal, stack-on-top).
 
