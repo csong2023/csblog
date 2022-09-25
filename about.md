@@ -4,14 +4,4 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
-
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Chris (Yunho) Song is a high-school student located in Incheon, South Korea. His interests are physics, math and programming, and he participates in the VEX robotics club, with several awards and experiences in the VEX World Championship. Chris also serves as a leader in the sustainability club, providing several discussions for raising public awareness on various areas related to sustainability. He also has experience with several engineering papers, for example, he created a paper regarding the application of diffusion graphs in real-life situations.
