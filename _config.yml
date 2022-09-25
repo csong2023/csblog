@@ -10,11 +10,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: ysong2023@chadwickschool.org
 #blog logo
-logo: "/assets/images/pf.jpg"
-float_logo: false # true, false (default)
+logo: "/_site/assets/images/pf.jpg"
+float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/background_image.jpg"
+cover: "/_site/assets/images/background_image.jpg"
 
 name: 'Chris Song'
 author: 'Chris Song'
