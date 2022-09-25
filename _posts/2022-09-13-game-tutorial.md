@@ -49,7 +49,7 @@ If all of the tiles are properly colored as shown above, then the game ends with
 
 ## Additional Controls
 
-![image1](/devblog/assets/article_images/game/game_controls.png)
+![image1](/csblog/assets/article_images/game/game_controls.png)
 
 Figure 5: Game Controls
 
