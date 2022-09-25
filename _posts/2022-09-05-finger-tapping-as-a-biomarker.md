@@ -20,7 +20,7 @@ categories: Study
 - The MoCA is the second-most-utilized geriatric cognitive screening tool after the Mini-Mental State Examination (MMSE) and has superior sensitivity to mild cognitive impairments. `Breton, A.; Casey, D.; Arnaoutoglou, N.A. Cognitive tests for the detection of mild cognitive impairment (MCI), the prodromal stage of dementia: Meta-analysis of diagnostic accuracy studies. Int. J. Geriatr. Psychiatry 2019, 34, 233–242.`
 - MCI classification was based on the recommendations of The National Institute on Aging and the Alzheimer’s Association `Albert, M.S.; DeKosky, S.T.; Dickson, D.; Dubois, B.; Feldman, H.H.; Fox, N.C.; Gamst, A.; Holtzman, D.M.; Jagust, W.J.; Petersen, R.C.; et al. The diagnosis of mild cognitive impairment due to Alzheimer’s disease: Recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011, 7, 270–279.`
 
-![table2](/devblog/assets/article_images/study/table4.png)
+![table1](/devblog/assets/article_images/study/table4.png)
 
 ---
 

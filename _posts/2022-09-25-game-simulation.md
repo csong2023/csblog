@@ -15,7 +15,7 @@ Using swift in xcode, the object of this project was to create a fully functioni
 
 The objective of the game is to select the color cell with the different color, which becomes slighter as the game processes. Also, as the palyer goes through the rounds, the total number of cells also increase, making it harder for the player to choose the correct cell.
 
-![image1](/csblog/assets/article_images/color_game/cubes.png)
+![cells](/csblog/assets/article_images/color_game/cubes.png)
 
 ## UI Model
 
@@ -27,7 +27,7 @@ The stages (phases) of the game is the following:
 a: Cleared - Player completes the game up to the last round, where the game restarts.
 b: Busted - Player selects a wrong cell in the process of the game, where the game restarts.
 
-![image1](/csblog/assets/article_images/color_game/uimodel.png)
+![ui model](/csblog/assets/article_images/color_game/uimodel.png)
 
 As shown above, the ui model shown follows the listed logic which will be further explained through the swift language below.
 
