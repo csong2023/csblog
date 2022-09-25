@@ -11,7 +11,7 @@ Polymorphism is one of the core concepts of object-oriented programming (OOP) an
 
 ---
 
-## Class
+## Class (Inherited from Calculator)
 
 ```swift
 class BetterCalculator {
