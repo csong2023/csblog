@@ -71,7 +71,7 @@ The phases of the games are shown above, where depending on the player's actions
 
 ## Next Round
 
-```Swift
+```swift
   func prepareNextRound() {
     round += 1
     setMainCellColor()
@@ -84,7 +84,7 @@ Between each round, the cell colors, the number of cels, and the different-color
 
 ## Cell Setup
 
-```Swift
+```swift
   private func setMainCellColor() {
     // 1. Selects RGB Value between 50~200.
     let randomRed = Double(Int.random(in: 50...200))
@@ -127,7 +127,7 @@ Through this process, the colors and the orientation of the cell are prepared be
 
 ## Game States
 
-```Swift
+```swift
   @ViewBuilder private func cell(index: Int) -> some View {
     if index == viewModel.differentColorIndex {
       viewModel.differentColor
