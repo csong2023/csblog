@@ -20,7 +20,7 @@ categories: Study
 - The MoCA is the second-most-utilized geriatric cognitive screening tool after the Mini-Mental State Examination (MMSE) and has superior sensitivity to mild cognitive impairments. `Breton, A.; Casey, D.; Arnaoutoglou, N.A. Cognitive tests for the detection of mild cognitive impairment (MCI), the prodromal stage of dementia: Meta-analysis of diagnostic accuracy studies. Int. J. Geriatr. Psychiatry 2019, 34, 233–242.`
 - MCI classification was based on the recommendations of The National Institute on Aging and the Alzheimer’s Association `Albert, M.S.; DeKosky, S.T.; Dickson, D.; Dubois, B.; Feldman, H.H.; Fox, N.C.; Gamst, A.; Holtzman, D.M.; Jagust, W.J.; Petersen, R.C.; et al. The diagnosis of mild cognitive impairment due to Alzheimer’s disease: Recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011, 7, 270–279.`
 
-![table1](/devblog/assets/article_images/study/table4.png)
+![table1](/csblog/assets/article_images/study/table4.png)
 
 ---
 
@@ -28,7 +28,7 @@ categories: Study
 
 - In the self-selected pace condition, the groups did not behave differently: CHI performed 86.5 ± 4.1 taps on average (mean ± standard error of the mean (SEM)), pMCI 74.3 ± 3.4 taps, and MCI 74.9 ± 4.6 taps. In contrast, in the fast pace condition, MCI produced 114 ± 4.2 taps, significantly less than CHI (127 ± 3.2 taps, paired t-test with Bonferroni’s correction, p = 0.019). pMCI (119 ± 2.9 taps) was not different compared with the other two groups.
 
-![table2](/devblog/assets/article_images/study/table3.png)
+![table2](/csblog/assets/article_images/study/table3.png)
 
 ---
 
